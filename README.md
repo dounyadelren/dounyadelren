@@ -11,6 +11,7 @@ Je m'intéresse à tout logiciels ou frameworks capables d'améliorer l'expérie
 <h2>Mes petits préférés</h2>
 
   <h3>Librairies externes</h3>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <strong>Skeleton</strong>
   <strong>Bulma</strong>
@@ -19,6 +20,7 @@ Je m'intéresse à tout logiciels ou frameworks capables d'améliorer l'expérie
   <h3>Traitement image</h3>
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
   <strong>Pixl R</strong>
 
 
