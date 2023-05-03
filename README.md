@@ -2,8 +2,8 @@
 <div align="center">
 <h1>Hello !</h1>
 
-<p align="justify">Je m'appelle Dounya, j'ai 27 ans et j'habite à Paris. Je suis en formation à la Web@cadémie by Epitech depuis juin 2021. Je suis une développeuse Full Stack et je souhaite me spécialiser en ✨développement Front-End✨<br>
-Je m'intéresse à tous logiciels ou frameworks capables d'améliorer l'expérience de l'utilisateur sur un site web. Vous trouverez dans mes répertoires quelques projets que j'ai réalisés dans le cadre de ma formation ou parfois simplement pour tester de nouvelles choses.</p><br> 
+<p align="justify">Je m'appelle Dounya, j'ai 28 ans et j'habite à Paris. Je suis ✨développeuse web front-end et UX/UI designer✨ <br>
+Je m'intéresse à tout outils ou frameworks capables d'améliorer l'expérience de l'utilisateur sur un site web. Vous trouverez dans mes répertoires quelques projets que j'ai réalisés dans le cadre de ma formation à la web@cadémie ou parfois simplement pour tester de nouvelles choses.</p><br> 
 
 <p>Mon portfolio par <a href="http://dounyadelren.github.io/Portfolio_DounyaDerlen">ici</a></p>
 
