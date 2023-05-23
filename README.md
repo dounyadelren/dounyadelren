@@ -5,7 +5,7 @@
 <p align="justify">Je m'appelle Dounya, je suis ✨développeuse web front-end et UX/UI designer✨ <br>
 Je m'intéresse à tout outils ou frameworks capables d'améliorer l'expérience de l'utilisateur sur un site web. Vous trouverez dans mes répertoires quelques projets que j'ai réalisés dans le cadre de ma formation à la web@cadémie ou parfois simplement pour tester de nouvelles choses.</p><br> 
 
-<p>Mon portfolio par <a href="https://portfolio-dounyaderlen.netlify.app/">ici</a></p>
+<p>Mon portfolio par <a href="https://portfolio-dounyaderlen.netlify.app/" target="_blank">ici</a></p>
 
 <h2>Mes petits préférés</h2>
   
